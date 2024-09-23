@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first project!
+BookBot is a bot that does static analysis on text files
